@@ -6,7 +6,7 @@ import java.util.Map;
 public class Palindrom {
 	
 	public static void main(String[] args) {
-		System.out.println(getPalindrom("AABBCCC"));
+		System.out.println(getPalindrom("AABBCCCdf"));
 	}
 
 	public static String getPalindrom(String str) {
